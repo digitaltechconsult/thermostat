@@ -10,6 +10,7 @@ What you get:
 I will implement in a future:
 - WiFi pairing
 - HomeKit integration
+- some kind of AI to manage the heating process automatically
 
 Hardware:
 - ESP8266 board with OLED screen (WeMos I think).
